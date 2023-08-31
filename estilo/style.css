@@ -19,6 +19,7 @@ body {
     position: absolute;
     top: 10px;
     left: 95px;
+    opacity: 80%;
 }
 .stars2 {
     background-color: #fff;
@@ -27,6 +28,8 @@ body {
     position: absolute;
     top: 12px;
     left: 85px;
+    opacity: 60%;
+
 }
 .stars3 {
     background-color: #fff;
@@ -35,6 +38,8 @@ body {
     position: absolute;
     top: 15px;
     left: 100px;
+    opacity: 45%;
+
 }
 .stars4 {
     background-color: #fff;
@@ -43,6 +48,8 @@ body {
     position: absolute;
     top: 11px;
     left: 108px;
+    opacity: 90%;
+
 }
 
 .fas {
